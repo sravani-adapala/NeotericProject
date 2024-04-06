@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="cardtransaction">
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/Dishes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/RestaurantList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/SwiggyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/SwiggyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="swiggydempo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,11 +104,20 @@
       <option name="project" value="LOCAL" />
       <updated>1712381304610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="swiggydempo">
+      <option name="closed" value="true" />
+      <created>1712393289765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712393289765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cardtransaction" />
-    <option name="LAST_COMMIT_MESSAGE" value="cardtransaction" />
+    <MESSAGE value="swiggydempo" />
+    <option name="LAST_COMMIT_MESSAGE" value="swiggydempo" />
   </component>
 </project>
