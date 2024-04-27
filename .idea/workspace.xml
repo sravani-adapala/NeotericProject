@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="swiggydempo">
-      <change afterPath="$PROJECT_DIR$/../../Program Files/nodejs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sravs/Sravs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Static/Static.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Static/ThreadsConcepts/ThreadsConcepts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Static/staticproject/staticproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collectionframework/collectionframework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../passport/passport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/AC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Fuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardemo/Wheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsdemo/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsdemo/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsdemo/RestaurantList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalshashcode/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalshashcode/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalshashcode/CarSerDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalshashcode/EqualsHashCodeDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionsdemo/BiSupplierDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionsdemo/FunctionDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionsdemo/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homedesign/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapdemo/MapDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapdemo/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapdemo/TicketList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pagination/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pagination/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pagination/PaginationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicatedemo/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicatedemo/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsdemo/DryPrincipleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsdemo/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsdemo/TicketList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsdemo/TicketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggydemo/RestaurantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votedemo/Vote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votedemo/VoteDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votedemo/VoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiggydemo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggydemo/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiggydemo/Dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggydemo/Dishes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiggydemo/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggydemo/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiggydemo/SwiggyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggydemo/SwiggyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiggydemo/SwiggyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggydemo/SwiggyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java17latestdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java17latestdemo/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="hii" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,12 +172,29 @@
       <option name="project" value="LOCAL" />
       <updated>1712395271889</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hii">
+      <option name="closed" value="true" />
+      <created>1714229608083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714229608083</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hii">
+      <option name="closed" value="true" />
+      <created>1714229890402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714229890402</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cardtransaction" />
     <MESSAGE value="swiggydempo" />
-    <option name="LAST_COMMIT_MESSAGE" value="swiggydempo" />
+    <MESSAGE value="hii" />
+    <option name="LAST_COMMIT_MESSAGE" value="hii" />
   </component>
 </project>
