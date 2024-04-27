@@ -8,27 +8,27 @@ public class SwiggyService {
     public RestaurantList getRestaurantdetails() {
 
         Restaurant paradise = new Restaurant();
-        paradise.name = "Paradise";
+        paradise.restaurentName= "Paradise";
         paradise.mobileNo = "346789";
         paradise.rating = "3.5";
         paradise.address = getAddress("P");
-        paradise.dishesList = paradise.dishesList;
+      //  paradise.dishesList = paradise.dishesList;
 
 
         Restaurant lucky = new Restaurant();
-        lucky.name = "LuckyRestaurant";
+        lucky.restaurentName= "LuckyRestaurant";
         lucky.mobileNo = "789999";
         lucky.rating = "3.0";
         lucky.address = getAddress("L");
-        lucky.dishesList = lucky.dishesList;
+      //  lucky.dishesList = lucky.dishesList;
 
 
         Restaurant ishta = new Restaurant();
-        ishta.name = "IshtaRestaurant";
+        ishta.restaurentName = "IshtaRestaurant";
         ishta.mobileNo = "456778";
         ishta.rating = "4.5";
         ishta.address = getAddress("I");
-        ishta.dishesList = ishta.dishesList;
+       // ishta.dishesList = ishta.dishesList;
 
 
         Dishes biryanis = new Dishes();

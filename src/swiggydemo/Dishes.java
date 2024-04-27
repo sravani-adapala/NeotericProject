@@ -9,7 +9,7 @@ public class Dishes {
 
     @Override
     public String toString() {
-        return "Dishes{" +
+        return " \n Dishes{" +
                 "dishName='" + dishName + '\'' +
                 ", price=" + price +
                 '}';

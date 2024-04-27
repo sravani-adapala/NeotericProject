@@ -7,8 +7,28 @@ public class Address {
 
 
     @Override
+    public boolean equals(Object obj) {
+
+        if (this==obj){
+            return true;
+        }
+        if (this.getClass()!=obj.getClass()){
+            return false;
+        }
+        Address otherAddress=(Address) obj;
+
+        return this.area.equals(otherAddress.area)&&
+                this.flatNo.equals(otherAddress.flatNo)&&
+                this.pincode.equals(otherAddress.pincode);
+
+
+    }
+
+
+
+    @Override
     public String toString() {
-        return "Address{" +
+        return "\n Address{" +
                 "area='" + area + '\'' +
                 ", flatNo='" + flatNo + '\'' +
                 ", pincode='" + pincode + '\'' +
