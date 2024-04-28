@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="hii" />
+    <list default="true" id="8b3a81ae-09b8-451a-8ddd-7a4a291706ab" name="Changes" comment="hii">
+      <change beforePath="$PROJECT_DIR$/../java17latestdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java17latestdemo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -196,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714230309255</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hii">
+      <option name="closed" value="true" />
+      <created>1714230981410</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714230981410</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
